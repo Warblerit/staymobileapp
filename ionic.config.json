@@ -1,0 +1,7 @@
+{
+  "name": "staysimplifiedapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
